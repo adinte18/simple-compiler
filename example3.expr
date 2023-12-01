@@ -1,0 +1,5 @@
+a = 1 ;
+b = a + 2 ;
+c = b ;
+d = b + c ;
+print c ;
